@@ -1,0 +1,23 @@
+body {
+    background-color: #49c1a2;
+    font-family: 'Candara', cursive;
+}
+
+h1 {
+    text-align: center;
+    font-size: 70px;
+    padding-top: 15px;
+}
+
+h2 {
+    text-align: center;
+}
+
+table {
+    background-color: #fff;
+    margin: auto;
+}
+
+.heading {
+    background-color: #89cbe9;
+}
